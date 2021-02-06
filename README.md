@@ -1,0 +1,2 @@
+# York County Properties Analysis
+I am interested in finding properties and wanted to survey what is available in this particular county. I am using publicly available data to specifically look for properties that have out-of-state owners as they could be more willing to sell their land so they do not have to manage it. 
